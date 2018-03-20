@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.flaginfo.platform.billing:billing-api:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/platform/billing/billing-api/0.0.1-SNAPSHOT/billing-api-0.0.1-20171012.061117-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/platform/billing/billing-api/0.0.1-SNAPSHOT/billing-api-0.0.1-20171012.061117-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/platform/billing/billing-api/0.0.1-SNAPSHOT/billing-api-0.0.1-20171012.061117-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

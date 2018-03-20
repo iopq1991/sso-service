@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.boot:pandora-sentinel-spring-boot-starter:2_15_170323-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-sentinel-spring-boot-starter/2_15_170323-1/pandora-sentinel-spring-boot-starter-2_15_170323-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-sentinel-spring-boot-starter/2_15_170323-1/pandora-sentinel-spring-boot-starter-2_15_170323-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-sentinel-spring-boot-starter/2_15_170323-1/pandora-sentinel-spring-boot-starter-2_15_170323-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

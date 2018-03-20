@@ -1,0 +1,55 @@
+//页面中公共的样式
+@import "../defines.scss";
+
+.gray-border {
+    border: 1px solid $gray-border-color;
+}
+
+.gray-border-bottom {
+    border-bottom: 1px solid $gray-border-color;
+}
+
+.gray-border-right {
+    border-right: 1px solid $gray-border-color;
+}
+
+.white-bg {
+    background: #fff;
+}
+
+.main-color{
+    color: $color-primary;
+}
+
+.sub-title {
+    margin-bottom: 0.1rem;
+    padding: 0.2rem 0.3rem;
+    border: 1px solid $gray-border-color;
+    font-size: .16rem;
+}
+
+//标签列表
+.app-memberitem{
+    .el-tag{
+        background-color: $tag-bg-color;
+        color: $lmenu-color;
+        border-radius: 12px;
+        margin:0.08rem 0.07rem;
+        border:none;
+        padding: 0 10px;
+    }
+}
+
+//直角按钮
+.setting-app-btn{
+    .el-button{
+       border-radius: 0;
+       padding: 0.09rem 0.30rem;
+    }
+}
+//树zuzhi
+.tree-dialog{
+    .el-dialog{
+        width: 8rem !important;
+    }
+}

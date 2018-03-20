@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.flaginfo.edas:wechat-core-api:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/edas/wechat-core-api/0.0.1-SNAPSHOT/wechat-core-api-0.0.1-20180316.015751-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/edas/wechat-core-api/0.0.1-SNAPSHOT/wechat-core-api-0.0.1-20180316.015751-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/edas/wechat-core-api/0.0.1-SNAPSHOT/wechat-core-api-0.0.1-20180316.015751-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

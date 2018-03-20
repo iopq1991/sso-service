@@ -1,0 +1,25 @@
+//从右侧滑入，渐渐呈现
+.slide-fade-enter-active, .slide-fade-leave-active {
+  transition: all .3s;
+}
+
+.slide-fade-enter, .slide-fade-leave-to
+{
+  transform: translateX(100%);
+  opacity: 0.8;
+}
+
+
+@keyframes shake {
+  0%,100% {
+    transform: translate3d(0,0,0)
+  }
+
+  10%,30%,50%,70%,90% {
+    transform: translate3d(-10px,0,0)
+  }
+
+  20%,40%,60%,80% {
+    transform: translate3d(10px,0,0)
+  }
+}

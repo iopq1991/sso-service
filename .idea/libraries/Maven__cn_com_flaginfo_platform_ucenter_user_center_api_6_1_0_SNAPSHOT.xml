@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.flaginfo.platform.ucenter:user-center-api:6.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/platform/ucenter/user-center-api/6.1.0-SNAPSHOT/user-center-api-6.1.0-20180306.072752-103.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/platform/ucenter/user-center-api/6.1.0-SNAPSHOT/user-center-api-6.1.0-20180306.072752-103-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/platform/ucenter/user-center-api/6.1.0-SNAPSHOT/user-center-api-6.1.0-20180306.072752-103-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

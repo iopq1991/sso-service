@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.flaginfo:statistics-common:6.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/statistics-common/6.1.0-SNAPSHOT/statistics-common-6.1.0-20180123.103319-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/statistics-common/6.1.0-SNAPSHOT/statistics-common-6.1.0-20180123.103319-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/flaginfo/statistics-common/6.1.0-SNAPSHOT/statistics-common-6.1.0-20180123.103319-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

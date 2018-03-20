@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.taobao.pandora:taobao-hsf.sar:dev.3.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/pandora/taobao-hsf.sar/dev.3.5/taobao-hsf.sar-dev.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/pandora/taobao-hsf.sar/dev.3.5/taobao-hsf.sar-dev.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/pandora/taobao-hsf.sar/dev.3.5/taobao-hsf.sar-dev.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

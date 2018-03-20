@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>error</title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    var queryString = (function () {
+        var cookie = document.cookie.trim();
+        var arr = cookie.split(";");
+        var obj = {};
+        for (var i in arr) {
+            var item = arr[i].trim().split("=");
+            obj[item[0]] = item[1];
+        }
+        return obj;
+    })();
+    var body = document.body;
+    for (var key in queryString) {
+        if (key === "returnMsg") {
+            var p = document.createElement('p');
+            p.innerHTML = queryString[key];
+            body.appendChild(p);
+        }
+    }
+
+</script>

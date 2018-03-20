@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.middleware:sdk:999-not-exist-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/middleware/sdk/999-not-exist-SNAPSHOT/sdk-999-not-exist-20161201.111944-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/middleware/sdk/999-not-exist-SNAPSHOT/sdk-999-not-exist-20161201.111944-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/middleware/sdk/999-not-exist-SNAPSHOT/sdk-999-not-exist-20161201.111944-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
